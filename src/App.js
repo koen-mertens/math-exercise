@@ -4,7 +4,7 @@ import MathExercise from "./MathExercise";
 function App() {
     return (
         <div>
-            <h1>Math Learning App</h1>
+            <h1>Math Learning</h1>
             <MathExercise />
         </div>
     );
