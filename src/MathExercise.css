@@ -1,0 +1,15 @@
+.math-exercise-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+.math-exercise-container select,
+.math-exercise-container button,
+.math-exercise-container input {
+    margin: 10px;
+}
